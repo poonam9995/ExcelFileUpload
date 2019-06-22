@@ -1,0 +1,28 @@
+.register{
+    background-color: aqua;
+    align-content: center;
+    width: 120px;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.login{
+    padding: 40px;
+}
+.loginLabel{
+    text-align: center;
+    font-size: 20px;
+    font-family: vani;
+    background-color: blue;
+    color: white;
+}
+.red-text{
+    color: red;
+   }
+
+.alert{
+    color: red;
+    background: rgb(226, 205, 205);
+    border-radius: 1%;
+    border:2px red;
+}
